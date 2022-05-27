@@ -1,0 +1,33 @@
+{
+  "name": "rw-related-coded",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicenathapong/rw-related-coded.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicenathapong/rw-related-coded/issues"
+  },
+  "homepage": "https://github.com/nicenathapong/rw-related-coded#readme",
+  "dependencies": {
+    "nuxt": "^2.15.8"
+  },
+  "devDependencies": {
+    "@nuxt/postcss8": "^1.1.3",
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.0.24"
+  }
+}
